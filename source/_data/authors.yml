@@ -1,0 +1,31 @@
+# 不指定作者直接在 front-matter 里面 author 留空会使用第一个作者
+# 默认作者
+swmh:
+  name: '诗文墨华'
+# zfrg
+zfrg:
+  name: '竹枫若官'
+  avatar: https://livefile.xesimg.com/programme/python_assets/d23711df4dbbd0ce2c3ac828fdedbc9d.jpg
+  description: 站长
+# wind
+wind:
+  name: '皓往'
+  avatar: https://livefile.xesimg.com/programme/python_assets/ecd884c1a4ea5b8d004e573173e94db2.webp
+  banner: https://livefile.xesimg.com/programme/python_assets/9ec2be0993a8a415807fb05172c667f3.webp
+  description: 哈喽
+# insaner
+insaner:
+  name: '若醒'
+  avatar: https://livefile.xesimg.com/programme/python_assets/6520335c1c760c24b020a4cceacb7e3c.png
+  description: 别再说谎了，你骗不过我。
+# kkimui
+kkimui:
+  name: '白告'
+  avatar: https://livefile.xesimg.com/programme/python_assets/5538ade26c49f567aa2009550637dfbe.webp
+# moey
+moey:
+  name: '牧云'
+# ridiculous
+ridiculous:
+  name: '苍醉'
+  description: 一介粗人罢了
