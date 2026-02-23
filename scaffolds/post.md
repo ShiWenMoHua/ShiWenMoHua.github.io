@@ -1,6 +1,7 @@
 ---
 # 这里是 Front-matter 填写区域，用于保存文章基本信息（元信息）
 # 所有可用的 Front-matter 配置请前往 https://xaoxuu.com/wiki/stellar/front-matter/ 查看详情
+# 正文请填写在所有 Front-matter 字段下的---下方
 
 # 这里填文章标题！格式如下：title: 文章标题
 title: {{ title }}
@@ -14,3 +15,4 @@ tags: ["标签"]
 # 文章摘要，<p></p>中的这段话将显示在标题下方
 excerpt: <p>文章摘要</p>
 ---
+正文部分
